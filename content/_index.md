@@ -33,7 +33,7 @@ sections:
           fringilla, fringilla.
       - title: Service Title
         content: |
-          Get know what you want to rank and what you are missing for ranking
+          You can use our tool for ranking your website
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
