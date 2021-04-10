@@ -31,7 +31,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-      - title: Service Title
+      - title: SEO Tools
         content: |
           You can use our tool for ranking your website
       - title: Service Title
